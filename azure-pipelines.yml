@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: az400m05I05a
+  name: az400m05I05a-pool
 
 steps:
 - script: echo Hello, world!
